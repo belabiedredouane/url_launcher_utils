@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Correct repository url.
+
 ## 0.1.0
 
 - Replace the default package scaffold with a reusable `url_launcher` wrapper.

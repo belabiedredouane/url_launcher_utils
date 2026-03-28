@@ -1,7 +1,7 @@
 name: url_launcher_utils
 description: "A reusable Flutter abstraction over url_launcher for calls, SMS, email, messaging apps, maps, and browser URLs."
-version: 0.1.0
-homepage: https://github.com/belabiedredouane/url_launcher_utils
+version: 0.1.1
+homepage: https://github.com/belabiedredouane
 repository: https://github.com/belabiedredouane/url_launcher_utils
 issue_tracker: https://github.com/belabiedredouane/url_launcher_utils/issues
 topics:
